@@ -1,7 +1,6 @@
 # COMP 2710
-COMP 2710 Projects  
-Software Construction
-
+- Software Construction Projects
+- DISCLAIMER: By duplicating, copying, or redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
 ```
 
         Total Views per Day from 2022-10-12 to 2022-12-15
